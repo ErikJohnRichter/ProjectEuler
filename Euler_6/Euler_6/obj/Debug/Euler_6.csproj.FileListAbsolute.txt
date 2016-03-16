@@ -1,0 +1,5 @@
+C:\Users\richter\Desktop\Euler\Euler_6\Euler_6\bin\Debug\Euler_6.exe.config
+C:\Users\richter\Desktop\Euler\Euler_6\Euler_6\bin\Debug\Euler_6.exe
+C:\Users\richter\Desktop\Euler\Euler_6\Euler_6\bin\Debug\Euler_6.pdb
+C:\Users\richter\Desktop\Euler\Euler_6\Euler_6\obj\Debug\Euler_6.exe
+C:\Users\richter\Desktop\Euler\Euler_6\Euler_6\obj\Debug\Euler_6.pdb

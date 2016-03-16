@@ -1,0 +1,6 @@
+C:\Users\richter\Desktop\Euler\Euler_2\Euler_2\bin\Debug\Euler_2.exe.config
+C:\Users\richter\Desktop\Euler\Euler_2\Euler_2\bin\Debug\Euler_2.exe
+C:\Users\richter\Desktop\Euler\Euler_2\Euler_2\bin\Debug\Euler_2.pdb
+C:\Users\richter\Desktop\Euler\Euler_2\Euler_2\obj\Debug\Euler_2.csprojResolveAssemblyReference.cache
+C:\Users\richter\Desktop\Euler\Euler_2\Euler_2\obj\Debug\Euler_2.exe
+C:\Users\richter\Desktop\Euler\Euler_2\Euler_2\obj\Debug\Euler_2.pdb

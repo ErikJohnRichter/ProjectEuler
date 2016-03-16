@@ -1,0 +1,6 @@
+C:\Users\richter\Desktop\Euler\Euler_8\Euler_8\bin\Debug\Euler_8.exe.config
+C:\Users\richter\Desktop\Euler\Euler_8\Euler_8\bin\Debug\Euler_8.exe
+C:\Users\richter\Desktop\Euler\Euler_8\Euler_8\bin\Debug\Euler_8.pdb
+C:\Users\richter\Desktop\Euler\Euler_8\Euler_8\obj\Debug\Euler_8.csprojResolveAssemblyReference.cache
+C:\Users\richter\Desktop\Euler\Euler_8\Euler_8\obj\Debug\Euler_8.exe
+C:\Users\richter\Desktop\Euler\Euler_8\Euler_8\obj\Debug\Euler_8.pdb
