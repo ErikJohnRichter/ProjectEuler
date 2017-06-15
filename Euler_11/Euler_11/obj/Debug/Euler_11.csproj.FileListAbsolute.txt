@@ -1,0 +1,6 @@
+C:\Users\richter\Documents\GitHub\ProjectEuler\Euler_11\Euler_11\bin\Debug\Euler_11.exe.config
+C:\Users\richter\Documents\GitHub\ProjectEuler\Euler_11\Euler_11\bin\Debug\Euler_11.exe
+C:\Users\richter\Documents\GitHub\ProjectEuler\Euler_11\Euler_11\bin\Debug\Euler_11.pdb
+C:\Users\richter\Documents\GitHub\ProjectEuler\Euler_11\Euler_11\obj\Debug\Euler_11.csprojResolveAssemblyReference.cache
+C:\Users\richter\Documents\GitHub\ProjectEuler\Euler_11\Euler_11\obj\Debug\Euler_11.exe
+C:\Users\richter\Documents\GitHub\ProjectEuler\Euler_11\Euler_11\obj\Debug\Euler_11.pdb
