@@ -30,20 +30,17 @@ namespace Euler_14
             {
                 int n = i;
                 int count = 1;
-                //List<int> sequence = new List<int>();
-                //sequence.Add(n);
+                
                 while (n > 1)
                 {
                     if (n % 2 == 0)
                     {
                         n = (n / 2);
-                        //sequence.Add(n);
                         count++;
                     }
                     else
                     {
                         n = (3 * n) + 1;
-                        //sequence.Add(n);
                         count++;
                     }
                 }

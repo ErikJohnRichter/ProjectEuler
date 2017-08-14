@@ -5,3 +5,10 @@ C:\Users\richter\Documents\GitHub\ProjectEuler\Euler_13\Euler_13\obj\Debug\Euler
 C:\Users\richter\Documents\GitHub\ProjectEuler\Euler_13\Euler_13\obj\Debug\Euler_13.exe
 C:\Users\richter\Documents\GitHub\ProjectEuler\Euler_13\Euler_13\obj\Debug\Euler_13.pdb
 C:\Users\richter\Documents\GitHub\ProjectEuler\Euler_13\Euler_13\bin\Debug\BigInteger.dll
+C:\Users\richter\Documents\Git\ProjectEuler\Euler_13\Euler_13\bin\Debug\Euler_13.exe.config
+C:\Users\richter\Documents\Git\ProjectEuler\Euler_13\Euler_13\obj\Debug\Euler_13.exe
+C:\Users\richter\Documents\Git\ProjectEuler\Euler_13\Euler_13\obj\Debug\Euler_13.pdb
+C:\Users\richter\Documents\Git\ProjectEuler\Euler_13\Euler_13\bin\Debug\Euler_13.exe
+C:\Users\richter\Documents\Git\ProjectEuler\Euler_13\Euler_13\bin\Debug\Euler_13.pdb
+C:\Users\richter\Documents\Git\ProjectEuler\Euler_13\Euler_13\bin\Debug\BigInteger.dll
+C:\Users\richter\Documents\Git\ProjectEuler\Euler_13\Euler_13\obj\Debug\Euler_13.csprojResolveAssemblyReference.cache

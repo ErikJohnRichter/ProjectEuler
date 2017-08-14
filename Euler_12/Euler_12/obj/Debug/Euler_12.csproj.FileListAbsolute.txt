@@ -7,3 +7,6 @@ C:\Users\richter\Documents\GitHub\ProjectEuler\Euler_12\Euler_12\obj\Debug\Euler
 C:\Users\richter\Documents\Git\ProjectEuler\Euler_12\Euler_12\bin\Debug\Euler_12.exe.config
 C:\Users\richter\Documents\Git\ProjectEuler\Euler_12\Euler_12\obj\Debug\Euler_12.exe
 C:\Users\richter\Documents\Git\ProjectEuler\Euler_12\Euler_12\obj\Debug\Euler_12.pdb
+C:\Users\richter\Documents\Git\ProjectEuler\Euler_12\Euler_12\bin\Debug\Euler_12.exe
+C:\Users\richter\Documents\Git\ProjectEuler\Euler_12\Euler_12\bin\Debug\Euler_12.pdb
+C:\Users\richter\Documents\Git\ProjectEuler\Euler_12\Euler_12\obj\Debug\Euler_12.csprojResolveAssemblyReference.cache
